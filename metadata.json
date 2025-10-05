@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Inversión a Futuro",
+  "description": "Una aplicación para calcular y visualizar el valor futuro de una inversión con interés compuesto, considerando la inflación y el retorno real.",
+  "requestFramePermissions": []
+}
